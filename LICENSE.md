@@ -18,4 +18,3 @@ This document (the README file) is a hub to give you some information about the 
 * [How can you get involved?](#get-involved)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
-* [Understand the jargon](#glossary)
